@@ -1,3 +1,5 @@
 Adding a new file
 
 another line to this file
+
+and some more text.
